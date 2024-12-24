@@ -1,0 +1,13 @@
+D:\RegistrationLogin\RegistrationLogin\bin\Debug\LoginDb.mdf
+D:\RegistrationLogin\RegistrationLogin\bin\Debug\LoginDb_log.ldf
+D:\RegistrationLogin\RegistrationLogin\bin\Debug\RegistrationLogin.exe.config
+D:\RegistrationLogin\RegistrationLogin\bin\Debug\RegistrationLogin.exe
+D:\RegistrationLogin\RegistrationLogin\bin\Debug\RegistrationLogin.pdb
+D:\RegistrationLogin\RegistrationLogin\obj\Debug\RegistrationLogin.csproj.AssemblyReference.cache
+D:\RegistrationLogin\RegistrationLogin\obj\Debug\RegistrationLogin.Form1.resources
+D:\RegistrationLogin\RegistrationLogin\obj\Debug\RegistrationLogin.Login.resources
+D:\RegistrationLogin\RegistrationLogin\obj\Debug\RegistrationLogin.Properties.Resources.resources
+D:\RegistrationLogin\RegistrationLogin\obj\Debug\RegistrationLogin.csproj.GenerateResource.cache
+D:\RegistrationLogin\RegistrationLogin\obj\Debug\RegistrationLogin.csproj.CoreCompileInputs.cache
+D:\RegistrationLogin\RegistrationLogin\obj\Debug\RegistrationLogin.exe
+D:\RegistrationLogin\RegistrationLogin\obj\Debug\RegistrationLogin.pdb
